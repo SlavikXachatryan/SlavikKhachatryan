@@ -26,5 +26,9 @@ export const nav = [
     {
     label: "Projects",
     href: "/projects"
-    }
+    },
+    {
+        label: "Review",
+        href: "/review"
+    },
 ]
