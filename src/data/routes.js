@@ -22,5 +22,9 @@ export const nav = [
     {
     label: "Contact",
     href: "/contact"
+    },
+    {
+    label: "Projects",
+    href: "/projects"
     }
 ]
